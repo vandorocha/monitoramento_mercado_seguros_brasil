@@ -35,7 +35,7 @@ O resultado final inclui **dashboards interativos** e documentação clara para 
 - **Documentação:** Markdown + Diagramas ERD/Estrela
 
 ---
-
+```
 ## 📂 Estrutura de Pastas
 
 monitoramento-seguros-brasil/
@@ -71,7 +71,7 @@ monitoramento-seguros-brasil/
 ├── requirements.txt # Dependências Python
 ├── README.md # Explicação do projeto
 └── LICENSE # Licença 
-
+```
 
 ---
 
