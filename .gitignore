@@ -1,3 +1,0 @@
-# Ignorar arquivos CSV grandes
-data/processed/*.csv
-data/raw/*.csv
